@@ -48,7 +48,7 @@ version_supported = {
         'vendors': 1,
     },
     '3.0': {
-        'Gnucash': 3000000,
+        'Gnucash': 3000001,
         'Gnucash-Resave': 19920,
         'accounts': 1,
         'billterms': 2,
@@ -67,7 +67,7 @@ version_supported = {
         'recurrences': 2,
         'schedxactions': 1,
         'slots': 4,
-        'splits': 4,
+        'splits': 5,
         'taxtable_entries': 3,
         'taxtables': 2,
         'transactions': 4,
